@@ -10,5 +10,6 @@ please name sure you have test db in your local machine and check the db connect
 # to run front 
 
 npm install
+
 npm start
 
