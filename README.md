@@ -7,7 +7,7 @@ please name sure you have test db in your local machine and check the db connect
  
  npm run dev
 
-# to run front 
+# to run frontend
 
 npm install
 
